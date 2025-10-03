@@ -35,4 +35,4 @@ Matplotlib & Seaborn for visualizations
 
 
 # Paper Status
-The paper titled "A Unified Hybrid ML-DL-XAI Framework for Fraud Detection using VAE-Based Augmentation and Feature Engineering" is under submission to a Scopus-indexed journal.
+The paper titled "A Unified Hybrid ML-DL-XAI Framework for Fraud Detection using VAE-Based Augmentation and Feature Engineering" has been accepted and presented at the 4th World Conference of Information Systems for Business Management at Bangkok, Thailand. It is a Springer LNNS and Scopus indexed based publishing.
