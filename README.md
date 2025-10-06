@@ -35,4 +35,4 @@ Matplotlib & Seaborn for visualizations
 
 
 # Paper Status
-The paper titled "A Unified Hybrid ML-DL-XAI Framework for Fraud Detection using VAE-Based Augmentation and Feature Engineering" has been accepted and presented at the 4th World Conference of Information Systems for Business Management at Bangkok, Thailand. It is a Springer LNNS and Scopus indexed based publishing.
+The paper titled "Detecting Bank Frauds: A Unified Solution in a fragmented domain" has been accepted and presented at the 4th World Conference of Information Systems for Business Management at Bangkok, Thailand. It is a Springer LNNS and Scopus indexed based publishing.
